@@ -16,7 +16,7 @@ bkg = "blue"
 frg = "white"
 
 #API ID from Openweathermap.org : Register to get a free API from openweathermap.org
-oWapi='INSERT YOUR API KEY HERE'
+oWapi='INSERT_YOUR_API_KEY_HERE'
 #Enter your City as per the format from Openweathermap.org
 cIty="Dubai,AE"
 #Choose your units. Change the C to F as required in Line 41
@@ -24,7 +24,7 @@ uNits="metric"
 # Line 36 concatenates the date form the FULL_URL for openweathermap.org
 
 #For Sunrise and Moonrise get your free Api key from ipgeolocation.io
-iPgeoAPI="INSERT YOUR API KEY HERE"
+iPgeoAPI="INSERT_YOUR_API_KEY_HERE"
 #Enter your Location's Latitude
 iPgeoLAT="25.08960"
 #Enter your locations's Longitude
